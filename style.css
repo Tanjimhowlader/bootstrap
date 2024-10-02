@@ -1,0 +1,101 @@
+.theme-secondary{
+    background: white !important;
+    color: #777777 !important;
+}
+.nav-link {
+    color: #777777 !important;
+    font-size: 18px;
+    font-family: "poppins", sans-serif ;
+    font-weight: 400;
+    padding: 0 20px !important;
+}
+.slider_area{
+    height:700px !important ;
+    
+    
+} 
+.slider_content{
+    height: 100% !important;
+    width: 100% !important;
+    display: flex !important;
+    background: rgba(0, 0, 0, 0.452);
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+.carousel-caption {
+    position: absolute;
+    right:0;
+    bottom:0;
+    left: 0;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+} 
+.cards-text{
+ font-size: 14px;
+} 
+.online{
+    display: flex;
+    justify-content: center; 
+    gap:13px;
+}
+.header_area{
+    display: flex;
+    background: #289BDE;
+    padding: 30px;
+    
+}
+.pasge2 p  {
+    font-size: 12px;
+}
+.pasge2  {
+    
+    width: 27%;
+} 
+.view{
+    display: flex;
+    justify-content: center;
+}
+.Accordion h2{
+    display: flex;
+    justify-content: center;
+}
+.Accordion p{
+    margin: 0 auto;
+    width:44%;
+    text-align: center;
+}
+.head-passge p{
+    width:66%
+}
+.head-passge2{
+    width: 44%;
+}
+.Frequently p{
+    margin: 0 auto;
+    width: 44%;
+    text-align: center; 
+margin-top: 5px;
+}
+.logo-imges{
+    height: 42px;
+    width: 1319px;
+
+}
+.head-icon{
+    width: 412px;
+    height: 212px;
+   
+    color: white;
+}    
+.head-icon p{
+    margin: 0 auto;
+    text-align: center;
+}
+.footer{
+    background-color:  #161616;
+    height: 472px;
+    
+}
